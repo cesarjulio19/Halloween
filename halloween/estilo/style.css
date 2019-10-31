@@ -1,0 +1,72 @@
+
+#wrapper{background-image:url("imagen/descarga2.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+width:1000px;
+height:624px;
+margin:auto;
+}
+body{background-color:black;
+    }
+h1{position:absolute;
+left:200px;
+font-size:2.5em;
+color:orange;
+font-family: 'Cookie', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Butcherman', cursive;
+text-shadow: black 2px 2px,
+        black 2px 2px,
+        black 2px 2px,}
+
+        #p1{position:relative;
+            top:40px;
+            left:600px;
+            font-size:1.5em;
+            font-family: 'Cookie', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Butcherman', cursive;
+color:white;}
+
+        #ventana{position: absolute;
+        top:200px;
+        left:580px;
+        width:60px;
+        height:80px;
+
+        }
+        #p2 {position:absolute;
+         top:250px;
+         left:200px;
+         font-size:1.5em;
+         font-family: 'Butcherman', cursive;
+         color:white;
+         }
+    #zombie {position:absolute;
+             top:400px;
+             left:500px;
+             visibility: hidden;}
+     #ventana2{position: absolute;
+        top:525px;
+        left:500px;
+        width:70px;
+        height:90px;}
+
+        #p3 {position:absolute;
+         top:500px;
+         left:300px;
+         font-size:1.5em;
+         font-family: 'Butcherman', cursive;
+         color:white;
+         }
+         #murcielago {position:absolute;
+             top:150px;
+             left:500px;
+             visibility: hidden;
+             }
+
+
+
+         
+
+
