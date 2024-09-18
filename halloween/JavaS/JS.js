@@ -10,4 +10,6 @@
     }
     function parar(sonido){
         document.getElementById(sonido).pause();
+
+        
     }
