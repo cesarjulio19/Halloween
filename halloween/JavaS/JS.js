@@ -12,4 +12,6 @@
         document.getElementById(sonido).pause();
 
         
+
+        
     }
